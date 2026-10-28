@@ -1,0 +1,11 @@
+[package]
+name = "sigmaos-antora"
+version = "0.1.0"
+edition = "2021"
+authors = ["SigmaOS Contributors"]
+description = "SigmaOS antora component"
+license = "MIT OR Apache-2.0"
+
+[lib]
+name = "sigmaos_antora"
+path = "src/lib.rs"
