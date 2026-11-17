@@ -3,7 +3,7 @@ name = "SigmaOS-antora"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "antora component"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
